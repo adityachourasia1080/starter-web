@@ -3,7 +3,11 @@
 
 # TEAM
 
+<<<<<<< HEAD
     aditya aditya@gmail.com  adi12
+=======
+    <Aditya Chourasia
+>>>>>>> simple-changes
 
 # THANKS
 
