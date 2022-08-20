@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    aditya aditya@gmail.com  adi123
 
 # THANKS
 
